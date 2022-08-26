@@ -22,7 +22,7 @@ To install all dependencies, open your VS terminal at the root folder and run `n
 
 ## Usage
 
-Once dependencies and database is installed, run `npm run start` in the terminal and follow route or use the url: https://git.heroku.com/mg-texteditor.git
+Once dependencies and database is installed, run `npm run start` in the terminal and follow route or use the url: https://mg-texteditor.herokuapp.com/
 
 ## Contribution Guidelines
 
