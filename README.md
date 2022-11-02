@@ -2,7 +2,7 @@
 
 ## Description
 
-An on/off-line, text editor that runs in the browser as a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
+An on/off-line, text editor that runs in the browser as a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. It will be able to be installed as a web app on your Desktop. 
 
 ## Table of Contents
 
